@@ -28,7 +28,7 @@ export default function PortfolioCard() {
           <div className="flex justify-end">
             <button>
               <a
-                href="/public/meucv.pdf" download className={buttonClasses}>
+                href="/meucv.pdf" download className={buttonClasses}>
                 <DownloadSimpleIcon size={20} weight="fill" />
                 CV
               </a>
