@@ -18,7 +18,7 @@ export default function PortfolioCard() {
           <p className="text-sm text-justify" >
             <span className="text-rose-300 text-lg font-serif font-style: italic">Olá!</span> Me chamo Francine, sou graduanda em Tecnologia da Informação, 
             desenvolvedora front-end com foco em <strong>React.js</strong>. Possuo experiência prática em desenvolvimento de sistemas com Delphi e Firebird, 
-            além de suporte técnico. Entusiasta de UI/UX e design de interfaces com Figma. Atualmente, estou aprofundando habilidades em
+            além de suporte técnico. Entusiasta de UI/UX e design. Atualmente, estou aprofundando habilidades em
             tecnologias modernas do ecossistema <strong>JavaScript</strong> através da Rocketseat.
           </p>
 
