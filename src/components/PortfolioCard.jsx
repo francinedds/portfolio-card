@@ -43,10 +43,11 @@ export default function PortfolioCard() {
             <h1 className="mb-4 font-semibold">Meus projetos recentes:</h1>
           </div>
           <ul className="list-disc list-inside">
-          <li><a href="https://github.com/francinedds/recipes" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Recipes App</a></li>
+            <li><a href="https://github.com/francinedds/calendar-moonphase" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Calendar</a></li>
+            <li><a href="https://github.com/francinedds/recipes" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Recipes App</a></li>
             <li><a href="https://github.com/francinedds/card-react" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Card</a></li>
             <li><a href="https://github.com/francinedds/memory-game" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Memory Game</a></li>
-            <li><a href="https://github.com/francinedds/tic-tac-toe" target="_blank" rel="noopener noreferrer" className="text-sm text-gray-800 underline hover:text-rose-300">Tic-Tac-Toe</a></li>
+           
           </ul>
           </>
         );
